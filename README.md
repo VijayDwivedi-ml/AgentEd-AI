@@ -219,4 +219,5 @@ MIT License
 
 ## 👨‍💻 Author
 
-Built with ❤️ by Vijay
+Built with ❤️ by Vijay, Dhyan, Abhijith
+
