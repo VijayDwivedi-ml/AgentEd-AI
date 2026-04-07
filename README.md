@@ -77,30 +77,9 @@ Instead of a single AI assistant, ShikshaAI uses a **Primary Orchestrator Agent*
 
 ---
 
-## 🧩 Architecture
+## 🧩 Architecture Diagram
 
 <img width="1295" height="648" alt="image" src="https://github.com/VijayDwivedi-ml/AgentEd-AI/blob/main/img/arch_dia.PNG" />
-```
-
-
-
-
-                ┌──────────────────────┐
-                │  Root Orchestrator   │
-                └─────────┬────────────┘
-                          │
-     ┌────────────┬──────────────┬──────────────┬──────────────┐
-     │            │              │              │
-Teaching     Calendar        Task Agent     ShikshaAI Agent
- Agent         Agent                           (Core AI)
-     │            │              │              │
-     └────────────┴──────┬───────┴──────────────┘
-                          │
-                  Firestore Database
-                          │
-                MCP Data Integrations
-         (World Bank + Google Trends APIs)
-```
 
 ---
 
