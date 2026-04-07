@@ -1,9 +1,8 @@
 # 🎓 ShikshaAI – Intent-Driven Multi-Agent Educational Assistant
 
 🚀 **Live Demo:** https://vijay-demo-633570604567.us-central1.run.app/
+
 🚀 **Video Link:** https://drive.google.com/file/d/1mQZNTV8-SlGKPFgOZb4ElnUBuskCR62w/
-
-
 
 ---
 
