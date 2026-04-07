@@ -175,7 +175,7 @@ https://vijay-demo-633570604567.us-central1.run.app/
 
 ```bash
 # Clone repo
-git clone https://github.com/<your-username>/ShikshaAI.git
+git clone https://github.com/VijayDwivedi-ml/AgentEd-AI.git
 
 
 # Install dependencies
