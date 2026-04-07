@@ -182,10 +182,25 @@ This project fulfills all requirements of a **Multi-Agent Productivity Assistant
 
 ## 🚀 Future Improvements
 
-* Frontend dashboard (React)
-* User authentication
-* Vector search for notes
-* Analytics dashboard for teachers
+* Ecosystem Integrations: 
+    - Google Workspace Sync
+    - Google Calendar integration for real-time scheduling of lessons and assignments
+    - Google Drive/Docs export for generated lesson plans
+
+* LMS Connectivity: 
+    - Google Classroom API to push assignments and pull student rosters
+    - Canvas API integration for cross-platform assignment management
+
+* Advanced AI & RAG: 
+    - AlloyDB AI vector database for semantic search (replacing basic Firestore)
+    - Concept-based lesson retrieval instead of keyword-only search
+
+* Syllabus Ingestion:
+   - PDF syllabus and textbook upload support
+   - Curriculum-grounded lesson generation based on school-specific materials
+
+* Frontend : 
+    - Telegram/WhatsApp Bot
 
 ---
 
