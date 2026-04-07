@@ -80,7 +80,7 @@ Instead of a single AI assistant, ShikshaAI uses a **Primary Orchestrator Agent*
 ## 🧩 Architecture
 
 ```
-<img width="1295" height="648" alt="image" src="https://github.com/user-attachments/assets/607c2683-5a67-4ca0-b6e0-2f35d7f08c1e" />
+<img width="1295" height="648" alt="image" src="https://github.com/VijayDwivedi-ml/AgentEd-AI/blob/main/img/arch_dia.PNG" />
 
 
 
