@@ -2,7 +2,7 @@
 
 🚀 **Live Demo:** https://vijay-demo-633570604567.us-central1.run.app/
 
-🚀 **Video Link:** https://drive.google.com/file/d/1mQZNTV8-SlGKPFgOZb4ElnUBuskCR62w/
+🚀 **Video Link:** https://drive.google.com/file/d/1Yt20vBqtLEA0ZZiYjyiwRcteCs7F-9Kq/view
 
 ---
 
